@@ -1,0 +1,19 @@
+#watermarkTicket{
+ height: 10px; /* or whatever, equal to the image you want 'watermarked' */
+width: 10px; /* as above */
+background-image: url(https://images-na.ssl-images-amazon.com/images/I/814NZySS89L.png);
+background-position: 0 0;
+background-repeat: no-repeat;
+position: relative;
+
+padding-right: 100px;
+}
+
+#watermarkTicket img {
+/* the actual 'watermark' */
+height: 100px;
+width: 100px;
+ /* Firefox, Chrome, Safari, Opera, IE >= 9 (preview) */
+filter:alpha(opacity=50); /* for <= IE 8 */
+padding-top: 30px;
+}

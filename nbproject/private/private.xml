@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/RailwayReservationApplication/src/java/connect/myConnection.java</file>
+            <file>file:/C:/RailwayReservationApplication/src/java/model/Train.java</file>
+            <file>file:/C:/RailwayReservationApplication/src/java/DAO/trainDAO.java</file>
+            <file>file:/C:/RailwayReservationApplication/web/TrainDetails.html</file>
+            <file>file:/C:/RailwayReservationApplication/src/java/controller/TrainDetailsServlet1.java</file>
+            <file>file:/C:/RailwayReservationApplication/src/java/controller/TrainDetailsServlet2.java</file>
+            <file>file:/C:/RailwayReservationApplication/web/WEB-INF/web.xml</file>
+            <file>file:/C:/RailwayReservationApplication/web/BookTickets.html</file>
+            <file>file:/C:/RailwayReservationApplication/src/java/model/Passenger.java</file>
+            <file>file:/C:/RailwayReservationApplication/web/passengerDetails.jsp</file>
+            <file>file:/C:/RailwayReservationApplication/src/java/DAO/passengerDAO.java</file>
+            <file>file:/C:/RailwayReservationApplication/src/java/controller/ConfirmDetailsServlet.java</file>
+            <file>file:/C:/RailwayReservationApplication/src/java/controller/ticket.java</file>
+            <file>file:/C:/RailwayReservationApplication/web/errorConfirmation.html</file>
+            <file>file:/C:/RailwayReservationApplication/src/java/controller/BookingDetails.java</file>
+            <file>file:/C:/RailwayReservationApplication/web/cancelBooking.html</file>
+            <file>file:/C:/RailwayReservationApplication/web/BookingDetails.html</file>
+            <file>file:/C:/RailwayReservationApplication/src/java/controller/cancelBookingFinal.java</file>
+            <file>file:/C:/RailwayReservationApplication/web/META-INF/context.xml</file>
+            <file>file:/C:/RailwayReservationApplication/web/errorTrainDetails.html</file>
+            <file>file:/C:/RailwayReservationApplication/web/signup.jsp</file>
+            <file>file:/C:/RailwayReservationApplication/src/java/model/testMain.java</file>
+            <file>file:/C:/RailwayReservationApplication/web/index.jsp</file>
+            <file>file:/C:/RailwayReservationApplication/web/login.jsp</file>
+            <file>file:/C:/RailwayReservationApplication/web/css/styles.css</file>
+            <file>file:/C:/RailwayReservationApplication/web/css/styles1.css</file>
+            <file>file:/C:/RailwayReservationApplication/web/css/styles2.css</file>
+            <file>file:/C:/RailwayReservationApplication/web/css/styles3.css</file>
+        </group>
+    </open-files>
+</project-private>

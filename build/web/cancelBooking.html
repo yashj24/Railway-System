@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Cancel Booking</title>
+        <link rel = "stylesheet" href = "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+        <link rel = "stylesheet" href = "./css/styles1.css">
+              
+    </head>
+    <body class="cancelBookingBody">
+        <form method="post" action="BookingDetails">
+            <center>
+                <table>
+                    <tr>
+                        <td>Enter Booking ID: </td>
+                        <td><input type="text"  name="bookingID" required></td>
+                    </tr>
+                    <tr>
+                       <td><input type="hidden" name="hiddenForCancel" ></td>  <!--this is to differentiate bw this page and bookingDetails.html-->
+                        <td> <button class="btn btn-danger" type="submit" >Cancel</td>
+                    </tr>
+                    <tr></tr>
+                </table>
+                </center>
+            <div class="cancelBookingDiv">
+                <p>*The refund will be processed in 3 working days.</p>
+            <p>*Any type of inconvenience is regretted.</p>
+            </div>
+            
+           
+            <center>
+                 <p class="mt-5 mb-3 text-muted">&copy; IRCTC by Yash Jain</p>
+                 </center>
+            
+        </form>
+    </body>
+</html>

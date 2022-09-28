@@ -1,0 +1,17 @@
+.captcha {
+ background-image: url(https://wallpaperaccess.com/full/1467776.jpg);
+        background-repeat: repeat;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+       
+        text-align: center;
+        font-weight: bold;
+        
+        font-family: 'Steelfish Rg', 'helvetica neue',
+                    helvetica, arial, sans-serif;
+        font-weight: 800;
+        -webkit-font-smoothing: antialiased;
+}
+
+
+

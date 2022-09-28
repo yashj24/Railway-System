@@ -1,0 +1,2 @@
+# Railway-System
+"Railway Reservation System", completely worked on by me. I hope you all enjoy it. Skills used - Java Servlet and JSP, JDBC, Sql, html, css, javascript and Bootstrap.  Key features - 1. A ticket is made Waiting or Confirmed dynamically depending if seat is available. 2. If a confirmed ticket is cancelled, a similar waiting ticket of the same train is made confirmed. 3. All the passenger/train data is stored and retrieved from Database. 4. If several tickets are booked, berth numbers are allocated together.
